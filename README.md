@@ -17,4 +17,4 @@ G0GDGGDtGptw0GwDDDGtDGDt33333www03333sDdFPsgWWwackSKKaowOWGQ4
 Why?
 ====
 
-Primarily for crafting ASCII Flash files. Why is this good? This algorithm is at the heart of the Rosetta Flash vulnerability (see [Abusing JSONP with Rosetta Flash](http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/) and [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373)).
+Primarily for crafting ASCII Flash files. Why is this good? This algorithm is at the heart of the Rosetta Flash vulnerability. For additional information, see [JSONP & handcrafted Flash files](http://quaxio.com/jsonp_handcrafted_flash_files/), [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) and [Abusing JSONP with Rosetta Flash](http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/).
