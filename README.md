@@ -19,4 +19,9 @@ Why?
 
 It can be used for bypassing certain filters in certain applications :)
 
-This algorithm is at the heart of the Rosetta Flash vulnerability. For additional information, see [JSONP & handcrafted Flash files](http://quaxio.com/jsonp_handcrafted_flash_files/), [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) and [Abusing JSONP with Rosetta Flash](http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/).
+This algorithm is at the heart of the Rosetta Flash vulnerability. For additional information, see
+
+* [JSONP & handcrafted Flash files](http://quaxio.com/jsonp_handcrafted_flash_files/)
+* [Handcrafting ASCII Flash Files for Fun and Profit](https://molnarg.github.io/ascii-flash/)
+* [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373)
+* [Abusing JSONP with Rosetta Flash](http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/).
